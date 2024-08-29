@@ -1,0 +1,1 @@
+The code contains an analysis of time-series data obtained from Bayfordbury Observatory and the development of 3 machine learning models (MLR, SVR and ANN) to forecast seasonal weather variation based on temperature, humidity and rainfall values obtained from the dataset
